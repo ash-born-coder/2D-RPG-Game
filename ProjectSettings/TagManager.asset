@@ -12,9 +12,9 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - Level_Limit
   - 
   - 
   - 
@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3322087213
+    locked: 0
+  - name: Characters
+    uniqueID: 991028525
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
